@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1a28c85-571f-44ef-881a-30c12ea5287b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Artificial-Intelligence/FlappyBird" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Artificial-Intelligence/GAShortestPath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Artificial-Intelligence/SudokuSolver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/Build-API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/.ipynb_checkpoints/bank-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/loan_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Build-API/loan_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Covid-19-US" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise-Tracker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercise-Tracker/.idea/Exercise-Tracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/GA-shortest-path.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/dj38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/lu980.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GA-shortest-path/wi29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GameOfLifeSimulator/GameOfLifeSimulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Handwashing-App/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Handwashing-App/.idea/Handwashing-App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Handwashing-App/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Handwashing-App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Handwashing-App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/Java Covid19 Social Distancing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/Subreddit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/model/VoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/SubredditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Reddit/src/main/java/com/diego/Reddit/repository/VoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Side Projects/.idea/Side Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/SocialNetworkApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/exceptions/SpringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Subreddit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/model/VoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/SubredditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/repository/VoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/MailContentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/java/com/diego/SocialNetwork/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SocialNetwork/src/test/java/com/diego/SocialNetwork/SocialNetworkApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Team-Management-App-Backend/src/main/java/com/diego/backend/web/BoatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/forms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Array-Statistics/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-1/.idea/Assignment-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-11/.idea/Assignment-11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/Assignment-12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/Assignment - 12.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-12/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-2/.idea/Assignment-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-3/.idea/Assignment-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-4/.idea/Assignment-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-5/.idea/Assignment-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-6/.idea/Assignment-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-7/.idea/Assignment-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Assignment-8/.idea/Assignment-8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/Php Numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/forms1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/Number-Statistics/numbers/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/.idea/phpExampleFour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/forms1_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/forms2_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/reg_action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleFour/reg_action_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/actions_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/actions_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/actions_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/forms1_new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web-Apps/phpExampleThree/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/coronavirus-flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/_virtualenv.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip-20.0.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip-20.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/command_context.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/network/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/network/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/build/wheel_legacy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools-46.1.3.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel-0.34.2.virtualenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/bdist_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/pkginfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/lib/python3.6/site-packages/wheel/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../coronavirus-flask/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/covid-flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/covid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../covid-flask/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/craigslist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../craigslist/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/disease-graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../disease-graph/routes.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/.idea/encryption-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/encrypt_data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/forms_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/intermediate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../encryption-php/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/MatrixTranspose.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/Screenshot_2020-04-20 Transfer data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/brian-mcgowan-r2Mf3WFOVZc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/diagonal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/john-4eBOPIJliNc-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/kushagra-kevat-cc4VWYA1S8U-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/markus-spiske-3_SvgDspSTE-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/oxana-v-qoAIlAmLJBU-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/ramon-salinero-Q8Y4xYdbDQA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/images/simone-pellegrini-b7xmLsCPW20-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-board-react/.idea/project-board-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/scraper-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/venv/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/venv/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/venv/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scraper-python/venv/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/SpringRedditCloneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/CommentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/SubredditController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/controller/VoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/CommentsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/LogoutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/PostResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/RefreshTokenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/SubredditDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/dto/VoteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/PostNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/SpringRedditException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/exceptions/SubredditNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/PostMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/mapper/SubredditMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/NotificationEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/RefreshToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Subreddit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/VerificationToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/model/VoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/RefreshTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/SubredditRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/VerificationTokenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/repository/VoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/security/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/MailContentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/RefreshTokenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/SubredditService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/java/com/programming/techie/springredditclone/service/VoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/images/create-post.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/images/create-subreddit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/images/reddit-screenshot-updated.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/images/spring-reddit-view-post.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/images/user-profile.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/springblog.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/main/resources/templates/mailTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-reddit-clone-master/src/test/java/com/programming/techie/springredditclone/SpringRedditCloneApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/puzzles/s01a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/puzzles/s02c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/puzzles/s14c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/puzzles/s16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/src/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sudoku-solver/sudoku-solver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_intro.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_navPanel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_navPanel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_fixed-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_fixed-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/images/COVID-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/images/free-to-use-sounds-1xT5Yz2Am0M-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/images/matthew-lejune-vjmNWcs-_54-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/SQLite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SQLite/sqlite_demo.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cHtA9upMzVuwRBqNlb4UPs61Pt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\development\Team-Management-App\boat-frontend" />
+      <recent name="C:\Users\diego\development\Team-Management-App\boat-frontend\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a28c85-571f-44ef-881a-30c12ea5287b" name="Default Changelist" comment="" />
+      <created>1590197200500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590197200500</updated>
+      <workItem from="1590197201691" duration="5426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1062" y="456" key="FileChooserDialogImpl" timestamp="1590198303704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1062" y="456" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1590198303704" />
+  </component>
+</project>
